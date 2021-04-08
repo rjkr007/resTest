@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+  margin-top: 10rem;
+}
