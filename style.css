@@ -3,19 +3,16 @@
 }
 
 body {
-  display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin: auto;
 }
 
-.btn {
+.twitt {
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 2px solid black;
-  border-radius: 8px;
-  margin-top: 10rem;
+  width: 80%;
   text-align: center;
+  margin: auto;
 }
